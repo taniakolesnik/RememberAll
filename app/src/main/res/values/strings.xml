@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remember All</string>
+    <string name="subField_empty_value" translatable="true">not provided</string>
+    <string name="field_empty_value" translatable="true">not provided</string>
+    <string name="button_name">Magic</string>
+    <string name="magic_button_text">do magic again</string>
+    <string name="magic_text">Magic indeed</string>
+</resources>
